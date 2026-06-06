@@ -1,0 +1,6 @@
+{
+  "name": "Swayam - Self Care Portal",
+  "description": "A privacy-first, offline-ready wellness application for Indian students preparing for competitive and board exams, offering mood-tracking, stress trigger analysis, rule-based personalization suggestions, breathing exercises, and regional helpline access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
